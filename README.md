@@ -23,7 +23,7 @@
 
 ## 🛠️ My Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,git,github,discord,bootstrap,arduino)
+![My Skills](https://skillicons.dev/icons?i=py,html,css,tailwind,javascript,react,redux,nodejs,expressjs,git,github,discord,linkedin,net,php,c#)
 
 ---
 
