@@ -7,7 +7,6 @@
 - ⚡ Fun fact: not now
 [![GitHub Streak](https://streak-stats.demolab.com?user=Basant1Saini&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Basant1Saini&theme=tokyonight-duo&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 <!---
 Basant1Saini/Basant1Saini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
