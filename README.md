@@ -23,7 +23,7 @@
 
 ## 🛠️ My Skills
 
-![My Skills](https://skillicons.dev/icons?i=py,html,css,tailwind,javascript,react,redux,nodejs,expressjs,git,github,discord,linkedin,net,php,c#)
+![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,redux,nodejs,expressjs,git,github,discord,linkedin,dotnet,php,c,java,py,azure,flutter,androidstudio,apple,cs,cpp,gmail,ai,kali,mongodb,mysql,notion,ps,pr,ubuntu,visualstudio,vscode,windows,wordpress)
 
 ---
 
